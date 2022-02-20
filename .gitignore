@@ -1,0 +1,6 @@
+*.pt
+*.log
+*.csv
+*.txt
+console_commands_test.txt
+.ipynb_checkpoints
